@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "The International GEOS-Chem Community"
 title: "Implementation of TOMAS in GCHP"
-doi: https://doi.org/10.5281/zenodo.10026853
+doi: https://doi.org/10.5281/zenodo.10026771
 date-released: 2023-10-20
-url: "https://doi.org/10.5281/zenodo.10026853"
+url: "https://doi.org/10.5281/zenodo.10026771"
